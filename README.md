@@ -71,12 +71,6 @@ My approach to machine learning and algorithm design is deeply influenced by the
 - Monitor inventory performance and recommend stock-optimization strategies
 - Gather business requirements and work with stakeholders to improve workflows
 - Use Excel, Python and digital tools for analysis and reporting
-
-**Certifications**
-- `2024` AWS Academy Graduate — Cloud Foundations
-- `2024` AWS Academy Graduate — Data Engineering
-- `2024` AWS Academy Graduate — ML for Natural Language Processing
-- `2024` AWS Academy Graduate — Machine Learning Foundations
 <br/>
 
 ## ∞ Currently Exploring
@@ -91,3 +85,4 @@ My approach to machine learning and algorithm design is deeply influenced by the
 
 Outside the computational realm, I balance my mental bandwidth with physical and creative mechanics. I am an avid enthusiast of **motorcycle mechanics, studying weight dynamics and torque. I maintain strict **athletic conditioning** through mobility exercises and interval running, and I channel remaining creative energy into **music**, **cricket**, and **chess**.
 
+<br/>
