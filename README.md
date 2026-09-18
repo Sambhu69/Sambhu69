@@ -10,9 +10,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sambhu69-0D1117?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Sambhu69)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sambhav_Shrestha-0D1117?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117&color=0A66C2)](https://www.linkedin.com/in/sambhav-shrestha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sambhav_Shrestha-0D1117?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117&color=0A66C2)](www.linkedin.com/in/sambhav-shrestha-42b455315)
 [![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117&color=EA4335)](mailto:shrethasambhav07@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Sambhu69&color=58A6FF&style=flat-square&label=OBSERVATIONS)
 
 </div>
 
