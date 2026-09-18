@@ -54,34 +54,6 @@ I am a computing student specializing in Artificial Intelligence (BSc Hons) at I
 
 <br/>
 
-## ◇ Systems I've Built
-
-**AI / Machine Learning**
-
-| Project | What it does | Stack |
-|---|---|---|
-| [Heart-Attack-Risk-Prediction-model](https://github.com/Sambhu69/Heart-Attack-Risk-Prediction-model) | Predicts cardiovascular risk from a person's habits and health characteristics. | `Python` `ML` |
-| [Fake-News-Detection-Model](https://github.com/Sambhu69/Fake-News-Detection-Model) | Classifies news text as fake or genuine by analyzing patterns in the language. | `Python` `NLP` |
-| [Student-Performance-Prediction-Model](https://github.com/Sambhu69/Student-Performance-Prediction-Model) | Estimates a student's average academic performance from historical data. | `Python` `Statistical Analysis` |
-
-**Software & Systems**
-
-| Project | What it does | Stack |
-|---|---|---|
-| [ElectroStockManager](https://github.com/Sambhu69/ElectroStockManager) | Desktop electronics-inventory manager with CRUD operations and persistent storage. | `Java` `Swing` `MySQL` |
-| [WeCare-Commercial-System](https://github.com/Sambhu69/WeCare-Commercial-System) | Modular inventory system for a skincare retailer — purchasing, restocking, invoicing. | `Python` `File Handling` |
-| [GymPulse](https://github.com/Sambhu69/GymPulse) | Gym-management application handling members, memberships and attendance. | `Java` `Swing` `MySQL` |
-| [RealGymPulse](https://github.com/Sambhu69/RealGymPulse) | Refined iteration of the gym-management system for day-to-day administration. | `Java` `MySQL` |
-| [Gym-GUI](https://github.com/Sambhu69/Gym-GUI) | Desktop gym-management app covering registration and data validation with core OOP. | `Java` `Swing` `OOP` |
-
-**Exploration**
-
-| Project | What it does | Stack |
-|---|---|---|
-| [WebScrapping](https://github.com/Sambhu69/WebScrapping) | Scripts for extracting and structuring data from web sources. | `Python` |
-| [Atelier](https://github.com/Sambhu69/Atelier) | A sandbox for smaller algorithmic exercises and experiments. | `Python` `Java` |
-
-<br/>
 
 ## ♟ The Strategist
 
