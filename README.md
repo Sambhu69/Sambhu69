@@ -52,7 +52,7 @@ I am a computing student specializing in Artificial Intelligence (BSc Hons) at I
 ![Java Swing/AWT](https://img.shields.io/badge/Java_Swing_%2F_AWT-0D1117?style=flat-square&color=58A6FF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_(Basic)-0D1117?style=flat-square&logo=bootstrap&logoColor=white&labelColor=0D1117&color=7952B3)
 
-
+<br/>
 
 
 ## ♟ The Strategist
@@ -61,7 +61,7 @@ I am a computing student specializing in Artificial Intelligence (BSc Hons) at I
 
 My approach to machine learning and algorithm design is deeply influenced by the mechanics of strategy and physics. Whether predicting probabilities in an ML model `P(A|B)` or calculating the structural leverage of a mechanical system, I rely on pattern recognition, state evaluation, and objective logic to navigate complex environments. 
 
-
+<br/>
 
 ## ⚛ State of the System
 
@@ -77,7 +77,7 @@ My approach to machine learning and algorithm design is deeply influenced by the
 - `2024` AWS Academy Graduate — Data Engineering
 - `2024` AWS Academy Graduate — ML for Natural Language Processing
 - `2024` AWS Academy Graduate — Machine Learning Foundations
-
+<br/>
 
 ## ∞ Currently Exploring
 
@@ -85,7 +85,7 @@ My approach to machine learning and algorithm design is deeply influenced by the
 - Scalable data engineering — the pipelines that feed a model matter as much as the model
 - Applied NLP and prompt engineering
 - Sharper data visualization for pulling insight out of dense datasets
-
+<br/>
 
 ## ◌ Beyond the Terminal
 
