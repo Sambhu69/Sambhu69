@@ -52,7 +52,7 @@ I am a computing student specializing in Artificial Intelligence (BSc Hons) at I
 ![Java Swing/AWT](https://img.shields.io/badge/Java_Swing_%2F_AWT-0D1117?style=flat-square&color=58A6FF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_(Basic)-0D1117?style=flat-square&logo=bootstrap&logoColor=white&labelColor=0D1117&color=7952B3)
 
-<br/>
+
 
 
 ## ♟ The Strategist
@@ -61,7 +61,7 @@ I am a computing student specializing in Artificial Intelligence (BSc Hons) at I
 
 My approach to machine learning and algorithm design is deeply influenced by the mechanics of strategy and physics. Whether predicting probabilities in an ML model `P(A|B)` or calculating the structural leverage of a mechanical system, I rely on pattern recognition, state evaluation, and objective logic to navigate complex environments. 
 
-<br>
+
 
 ## ⚛ State of the System
 
@@ -78,7 +78,6 @@ My approach to machine learning and algorithm design is deeply influenced by the
 - `2024` AWS Academy Graduate — ML for Natural Language Processing
 - `2024` AWS Academy Graduate — Machine Learning Foundations
 
-<br/>
 
 ## ∞ Currently Exploring
 
@@ -87,28 +86,8 @@ My approach to machine learning and algorithm design is deeply influenced by the
 - Applied NLP and prompt engineering
 - Sharper data visualization for pulling insight out of dense datasets
 
-<br/>
 
 ## ◌ Beyond the Terminal
 
 Outside the computational realm, I balance my mental bandwidth with physical and creative mechanics. I am an avid enthusiast of **motorcycle mechanics, studying weight dynamics and torque. I maintain strict **athletic conditioning** through mobility exercises and interval running, and I channel remaining creative energy into **music**, **cricket**, and **chess**.
-<br/>
 
-## 📊 System Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sambhu69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=A9B7C6&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhu69&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=A9B7C6&title_color=58A6FF" alt="Top Languages" height="165"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`[ CONNECTION VECTORS ]`
-
-[GitHub](https://github.com/Sambhu69) • [LinkedIn](https://www.linkedin.com/in/sambhav-shrestha) • [Email](mailto:shrethasambhav07@gmail.com)
-
-</div>
