@@ -21,7 +21,6 @@
 
 I'm a computing student reading for a **BSc (Hons) in Computing with Artificial Intelligence** at Islington College, affiliated with London Metropolitan University. My interest sits at the intersection of data, logic and decision-making — I like understanding *why* a system behaves the way it does before I try to change it.
 
-Alongside my studies, I work as a **Business Analyst & Social Media Manager**, which keeps my technical side grounded in an actual, ongoing operation rather than only coursework. Chess, mathematics and physics aren't credentials here — they're the mental habits I bring to every technical problem: define the state, enumerate the moves, then choose.
 
 <br/>
 
