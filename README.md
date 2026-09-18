@@ -121,8 +121,7 @@ Chess, mathematics and physics aren't side hobbies bolted onto a CS profile — 
 
 ## ◌ Beyond the Terminal
 
-Away from a screen, the same interest in pattern and strategy shows up in **chess**, and the rest of my downtime goes to **music** and **cricket**.
-
+Outside the computational realm, I balance my mental bandwidth with physical and creative mechanics. I am an avid enthusiast of **motorcycle mechanics, studying weight dynamics and torque. I maintain strict **athletic conditioning** through mobility exercises and interval running, and I channel remaining creative energy into **music**, **cricket**, and **chess**.
 <br/>
 
 ## 📊 System Metrics
