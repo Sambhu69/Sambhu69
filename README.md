@@ -1,100 +1,127 @@
 <div align="center">
-  <h1><code>∇ S A M B H A V _ S H R E S T H A</code></h1>
-  <p><i>"Embracing the uselessness of today and saving my usefulness for tomorrow."</i></p>
-  
-  <p>
-    <a href="https://github.com/Sambhu69"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/sambhav-shrestha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:shrethasambhav07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+
+<!-- Hero Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=26&pause=2000&color=A9B7C6&center=true&vCenter=true&width=500&lines=Sambhav+Shrestha;AI+%2F+ML+Architecture;Data+Science+%26+Engineering;Computational+Thinking" alt="Typing SVG" />
+
+<br>
+
+*“Embracing the uselessness of today and saving my usefulness for tomorrow.”*
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Sambhu69&color=212121&style=flat-square&label=OBSERVATIONS)](https://github.com/Sambhu69)
+
+---
 </div>
 
-<br>
+### ∴ ABOUT THE MIND
 
-## ∴ ABOUT THE MIND
+I am a computing student specializing in Artificial Intelligence (BSc Hons) at Islington College, London Metropolitan University <!--[cite: 1] -->. My focus lies at the intersection of data science, software architecture, and analytical reasoning. I build systems that process information, identify patterns, and optimize decisions. Whether modeling system workflows for local businesses or architecting neural networks, I view programming not just as coding, but as applied logic and state management.
 
-I am a Computing and Artificial Intelligence student focused on the intersection of **Machine Learning**, **Data Science**, and **Systems Architecture**. My approach to software engineering is highly analytical: I view problems as state spaces and code as the logic required to traverse them. Currently based in Nepal, studying through London Metropolitan University, and working as a Business Analyst applying data-driven strategies to real-world retail operations.
-
-- 🎓 **Academic Focus:** BSc (Hons) Computing with Artificial Intelligence
-- 💼 **Professional Role:** Business Analyst & Social Media Manager
-- 🔭 **Current Trajectory:** Advanced ML Models, Intelligent Data Pipelines, Analytical Problem Solving
+*(Pronouns: He/Him)*
 
 <br>
 
-## ◈ COMPUTATIONAL STACK
+### ◈ COMPUTATIONAL STACK
 
-### Intelligent Systems & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+**`[ λ ] LANGUAGES`**  
+![Python](https://img.shields.io/badge/Python-141414?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-141414?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-141414?style=flat-square&logo=databricks&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-141414?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-141414?style=flat-square&logo=css3&logoColor=white) ![JavaScript (Basic)](https://img.shields.io/badge/JavaScript_(Basic)-141414?style=flat-square&logo=javascript&logoColor=gray) <!--[cite: 1] -->
 
-### Core Logic & Architecture
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**`[ ∑ ] DATA & AI`**  
+![PyTorch](https://img.shields.io/badge/PyTorch-141414?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-141414?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-141414?style=flat-square&logo=numpy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-141414?style=flat-square&logo=powerbi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-141414?style=flat-square&logo=mysql&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-141414?style=flat-square) ![ML Pipelines](https://img.shields.io/badge/ML_Pipelines-141414?style=flat-square) <!--[cite: 1] -->
 
-### Web & Interface 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**`[ ∇ ] FRAMEWORKS & TOOLS`**  
+![Git](https://img.shields.io/badge/Git-141414?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-141414?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-141414?style=flat-square&logo=visualstudiocode&logoColor=white) ![Java Swing/AWT](https://img.shields.io/badge/Java_Swing_/_AWT-141414?style=flat-square) ![Bootstrap (Basic)](https://img.shields.io/badge/Bootstrap_(Basic)-141414?style=flat-square) <!--[cite: 1] -->
 
 <br>
 
-## ◇ SYSTEMS I'VE BUILT
+### ◇ SYSTEMS I'VE BUILT
 
-### AI & Predictive Modeling 
-| Project | Description | Technology |
+<details open>
+<summary><b>🧠 Artificial Intelligence & Machine Learning</b></summary>
+<br>
+
+| Project / Repository | Functional Description | Architecture |
 | :--- | :--- | :--- |
-| **[Heart Attack Risk Prediction](https://github.com/Sambhu69/Heart-Attack-Risk-Prediction-model)** | Predictive analysis tool for cardiovascular risk factors based on medical data sets. | `Python` `Machine Learning` |
-| **[Fake News Detection](https://github.com/Sambhu69/Fake-News-Detection-Model)** | NLP-based classification model to identify and filter out fabricated content. | `Python` `NLP` |
-| **[Student Performance Prediction](https://github.com/Sambhu69/Student-Performance-Prediction-Model)** | Statistical model to predict academic outcomes based on underlying patterns. | `Python` `Data Science` |
+| **[Heart-Attack-Risk-Prediction-model](https://github.com/Sambhu69/Heart-Attack-Risk-Prediction-model)** | Predictive modeling leveraging patient medical data to evaluate cardiovascular risk factors. | `Python` `Data Science` `ML` |
+| **[Fake-News-Detection-Model](https://github.com/Sambhu69/Fake-News-Detection-Model)** | NLP-based pipeline designed to classify and filter misinformation in digital text sources. | `Python` `NLP` `ML Pipelines` |
+| **[Student-Performance-Prediction-Model](https://github.com/Sambhu69/Student-Performance-Prediction-Model)** | Analytical model forecasting academic trajectories based on historical variables. | `Python` `Statistical Analysis` |
+| **Adaptive AI Health Tracker** *(Ongoing)* | System integrating barcode API, local food databases, and participant metrics. | `Python` `Data Engineering` |
 
-### Software & Information Systems
-| Project | Description | Technology |
+</details>
+
+<details>
+<summary><b>⚙️ Software Architecture & Systems</b></summary>
+<br>
+
+| Project / Repository | Functional Description | Architecture |
 | :--- | :--- | :--- |
-| **[WeCare Commercial System](https://github.com/Sambhu69/WeCare-Commercial-System)** | Modular inventory and restocking system for a skincare retail ecosystem. | `Python` |
-| **[ElectroStockManager](https://github.com/Sambhu69/ElectroStockManager)** | Desktop electronics inventory system with full CRUD operations and DB integration. | `Java` `Swing` `MySQL` |
-| **[GymPulse](https://github.com/Sambhu69/GymPulse)** | Comprehensive member and attendance management system for fitness centers. | `Java` `MySQL` |
-| **[Gym-GUI](https://github.com/Sambhu69/Gym-GUI)** | Object-oriented graphical interface for member registration and data validation. | `Java` `OOP` |
+| **[ElectroStockManager](https://github.com/Sambhu69/ElectroStockManager)** | Electronics inventory management system featuring CRUD operations and data persistence. <!--[cite: 1] --> | `Java` `Swing` `MySQL` |
+| **[WeCare-Commercial-System](https://github.com/Sambhu69/WeCare-Commercial-System)** | Modular retail inventory system for skincare lines with automated invoicing and stock updates. <!--[cite: 1] --> | `Python` `File Handling` |
+| **[GymPulse](https://github.com/Sambhu69/GymPulse) / [RealGymPulse](https://github.com/Sambhu69/RealGymPulse)** | Comprehensive health club administration platform managing attendance and memberships. <!--[cite: 1] --> | `Java` `Swing` `MySQL` |
+| **Gokyo Bistro System** | Modeled system workflows and software architecture for a restaurant management environment. | `Java` `PlantUML` `Mermaid` |
+
+</details>
+
+<details>
+<summary><b>🔬 Exploration & Data Engineering</b></summary>
+<br>
+
+| Project / Repository | Functional Description | Architecture |
+| :--- | :--- | :--- |
+| **[WebScrapping](https://github.com/Sambhu69/WebScrapping)** | Automated data extraction tools for gathering unstructured web data. | `Python` `Data Preprocessing` |
+| **[Atelier](https://github.com/Sambhu69/Atelier)** | Sandbox environment for experimental scripts and algorithmic problem-solving. | `Python` `Java` |
+
+</details>
 
 <br>
 
-## ⚛ STATE OF THE SYSTEM
+### ♟ THE STRATEGIST
+
+> *Every problem exists within a state space. Every state has a finite set of possible moves. Understanding the geometry of the board always precedes choosing the move.*
+
+My approach to machine learning and algorithm design is deeply influenced by the mechanics of strategy and physics. Whether predicting probabilities in an ML model `P(A|B)` or calculating the structural leverage of a mechanical system, I rely on pattern recognition, state evaluation, and objective logic to navigate complex environments. 
+
+<br>
+
+### ⚛ STATE OF THE SYSTEM
+
+**Current Professional Role:**  
+**Business Analyst & Social Media Manager** @ *Pratikshya Kitchen Suppliers* (Pokhara, Nepal)  
+*   Architecting analytical reports and dashboards to optimize inventory and sales performance <!--[cite: 1] -->.
+*   Translating raw customer data into actionable business requirements and streamlined workflows <!--[cite: 1] -->.
+
+**Certifications:**  
+*   `[2024]` AWS Academy Graduate — Machine Learning Foundations <!--[cite: 1] -->
+*   `[2024]` AWS Academy Graduate — ML for Natural Language Processing <!--[cite: 1] -->
+*   `[2024]` AWS Academy Graduate — Data Engineering <!--[cite: 1] -->
+*   `[2024]` AWS Academy Graduate — Cloud Foundations <!--[cite: 1] -->
+
+<br>
+
+### ∞ CURRENTLY EXPLORING
+
+*   **Agentic AI & LLM Integration:** Moving beyond static models toward autonomous, goal-oriented AI systems.
+*   **Scalable Data Engineering:** Refining the pipelines that feed complex ML models.
+*   **Advanced Data Visualization:** Extracting sharper insights from high-dimensional datasets.
+
+<br>
+
+### ◌ BEYOND THE TERMINAL
+
+Outside the computational realm, I balance my mental bandwidth with physical and creative mechanics. I am an avid enthusiast of **motorcycle mechanics and performance** (specifically the Royal Enfield Classic 350 and KTM platforms), studying weight dynamics and torque. I maintain strict **athletic conditioning** through mobility exercises and interval running, and I channel remaining creative energy into **music**, **cricket**, and **chess**.
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sambhu69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhu69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
 
-<br>
+### 📊 SYSTEM METRICS
 
-## ♟ THE STRATEGIST
+<img src="https://github-readme-stats.vercel.app/api?username=Sambhu69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=A9B7C6&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats" width="400"/>
 
-> *Every problem has a state. Every state has possible moves. Understanding the board comes before choosing the move.*
+<br><br>
 
-Whether optimizing retail inventory as a Business Analyst, designing relational databases, or studying the fundamental laws of mechanics and quantum physics, I approach systems with a strategic mindset. I hold the following certifications that reflect an ongoing pursuit of computational mastery:
+`[ CONNECTION VECTORS ]`  
+[LinkedIn](https://www.linkedin.com/in/sambhav-shrestha) <!--[cite: 1] --> • [GitHub](https://github.com/Sambhu69) <!--[cite: 1] --> • [Email](mailto:shrethasambhav07@gmail.com) <!--[cite: 1] -->
 
-- **AWS Academy Graduate** — Machine Learning Foundations
-- **AWS Academy Graduate** — ML for Natural Language Processing
-- **AWS Academy Graduate** — Data Engineering
-- **AWS Academy Graduate** — Cloud Foundations
-
-<br>
-
-## ◌ BEYOND THE TERMINAL
-
-When I am not writing code, analyzing data patterns, or gathering business requirements, I am exploring other complex systems:
-
-- ♟️ **Chess:** Analyzing tactical sequences, state spaces, and decision trees.
-- 🎼 **Music:** Finding structure, rhythm, and creativity outside of pure logic.
-- 🏏 **Cricket:** Observing strategy and execution in a dynamic, physical environment.
-- 📐 **Mathematics & Physics:** Continuously fascinated by the underlying equations and probabilities that govern reality.
-
-<br>
-
-<div align="center">
-  <code>[ PROCESS TERMINATED ]</code>
 </div>
