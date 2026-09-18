@@ -19,8 +19,7 @@
 
 ## ∴ About the Mind
 
-I'm a computing student reading for a **BSc (Hons) in Computing with Artificial Intelligence** at Islington College, affiliated with London Metropolitan University. My interest sits at the intersection of data, logic and decision-making — I like understanding *why* a system behaves the way it does before I try to change it.
-
+I am a computing student specializing in Artificial Intelligence (BSc Hons) at Islington College, London Metropolitan University <!--[cite: 1] -->. My focus lies at the intersection of data science, software architecture, and analytical reasoning. I build systems that process information, identify patterns, and optimize decisions. Whether modeling system workflows for local businesses or architecting neural networks, I view programming not just as coding, but as applied logic and state management.
 
 <br/>
 
