@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=640&lines=Sambhav+Shrestha;AI+%2F+ML+%2F+Data+Science;Computational+Thinking%2C+Applied." alt="Typing animation" />
+<!-- Hero Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=26&pause=2000&color=A9B7C6&center=true&vCenter=true&width=500&lines=Sambhav+Shrestha;AI+%2F+ML+Architecture;Data+Science+%26+Engineering;Computational+Thinking" alt="Typing SVG" />
 
-<br/>
+<br>
 
 *"Embracing the uselessness of today and saving my usefulness for tomorrow."*
 
