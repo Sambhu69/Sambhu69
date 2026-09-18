@@ -5,7 +5,7 @@
 
 <br>
 
-*"Embracing the uselessness of today and saving my usefulness for tomorrow."*
+*"Embracing the uselessness of today and saving the usefulness for tomorrow."*
 
 <br/>
 
