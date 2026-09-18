@@ -85,12 +85,11 @@ I am a computing student specializing in Artificial Intelligence (BSc Hons) at I
 
 ## ♟ The Strategist
 
-> Every problem has a state. Every state has a set of possible moves.
-> Reading the board comes before choosing one.
+> *Every problem exists within a state space. Every state has a finite set of possible moves. Understanding the geometry of the board always precedes choosing the move.*
 
-Chess, mathematics and physics aren't side hobbies bolted onto a CS profile — they're the lens I actually think through. A classifier's `P(A|B)` and a chess position's evaluation are the same kind of question: *given what I can observe, what's the most defensible next move?* That habit of stating the problem precisely before reaching for a solution is what I try to carry into every model I train and every system I design.
+My approach to machine learning and algorithm design is deeply influenced by the mechanics of strategy and physics. Whether predicting probabilities in an ML model `P(A|B)` or calculating the structural leverage of a mechanical system, I rely on pattern recognition, state evaluation, and objective logic to navigate complex environments. 
 
-<br/>
+<br>
 
 ## ⚛ State of the System
 
