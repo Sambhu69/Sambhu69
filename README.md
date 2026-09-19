@@ -64,8 +64,6 @@ My approach to machine learning and algorithm design is deeply influenced by the
 <br/>
 
 ## ⚛ State of the System
-
-**Business Analyst & Social Media Manager** — Pratikshya Kitchen Suppliers, Pokhara, Nepal *(2022 – Present)*
 - Analyze sales, inventory and customer data to surface trends and improvement opportunities
 - Build analytical reports and dashboards that support business decisions
 - Monitor inventory performance and recommend stock-optimization strategies
